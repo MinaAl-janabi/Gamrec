@@ -1,0 +1,4 @@
+FIFA,sports
+DOOM,action
+GTA V,open world
+Minecraft,relax
